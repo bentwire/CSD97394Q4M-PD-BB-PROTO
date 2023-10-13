@@ -459,8 +459,8 @@
       "/VAS": "power",
       "/VB": "power",
       "/VBS": "power",
-      "/VSWB": "power",
-      "Net-(U101-VSW)": "power"
+      "/VSWA": "power",
+      "/VSWB": "power"
     },
     "netclass_patterns": []
   },
